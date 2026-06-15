@@ -33,7 +33,7 @@ type: "Recruitment Marketplace Platform",
 description:
 "A recruitment marketplace connecting companies, freelance recruiters, and staffing consultancies. Organizations can publish job openings while authorized recruiters and agencies submit candidate profiles, track hiring progress, and earn through successful placements using a centralized workflow platform.",
 url: "https://vendor.mecherd.com",
-image: "/projects/mecherd-recruitment.png",
+image: "/vendor.png",
 accent: "from-orange-500/20 to-transparent",
 },
 
@@ -43,7 +43,7 @@ type: "Job Portal",
 description:
 "A free job portal where employers can publish openings and candidates can apply directly. Built to simplify the hiring process through job management, application tracking, and streamlined candidate engagement for both recruiters and job seekers.",
 url: "https://career.mecherd.com",
-image: "/projects/mecherd-careers.png",
+image: "/career.png",
 accent: "from-cyan-500/20 to-transparent",
 },
 
@@ -53,7 +53,7 @@ type: "E-Commerce Platform",
 description:
 "A full-scale e-commerce solution featuring custom CMS, inventory management, Razorpay payment integration, Shiprocket shipping automation, product catalog management, and streamlined order processing workflows.",
 url: "https://aed-ecom.vercel.app",
-image: "/projects/aeds-india.png",
+image: "/aed.png",
 accent: "from-emerald-500/20 to-transparent",
 },
 
@@ -65,7 +65,7 @@ description:
 url: "https://appadmin.flybangalorevacations.com",
 appUrl:
 "https://play.google.com/store/apps/details?id=com.flybangalore.app",
-image: "/projects/fly-bangalore.png",
+image: "/fly.png",
 accent: "from-sky-500/20 to-transparent",
 },
 
@@ -75,7 +75,7 @@ type: "Digital Marketing Platform",
 description:
 "A digital marketing platform showcasing agency services, client success stories, and lead-generation solutions. Built to support client acquisition, campaign management, and business growth initiatives.",
 url: "https://marketing.mecherd.com",
-image: "/projects/mecherd-marketing.png",
+image: "/marketing.png",
 accent: "from-violet-500/20 to-transparent",
 },
 
@@ -85,7 +85,7 @@ type: "Company Website",
 description:
 "The primary company website presenting Mecherd's HR-tech and digital marketing offerings. Serves as the central brand presence connecting recruitment solutions, marketing services, and client engagement channels.",
 url: "https://mecherd.com",
-image: "/projects/mecherd-main.png",
+image: "/mecherd.png",
 accent: "from-orange-500/20 to-transparent",
 },
 
@@ -95,7 +95,7 @@ type: "EdTech Platform",
 description:
 "An education platform with custom content management, course listings, lead capture workflows, and student engagement features designed to support learning and business growth.",
 url: "https://stepedges.com",
-image: "/projects/step-edges.png",
+image: "/step-edges.png",
 accent: "from-indigo-500/20 to-transparent",
 },
 
@@ -105,7 +105,7 @@ type: "Business Website",
 description:
 "A modern transportation and cab-service website designed to strengthen online visibility, improve customer acquisition, and provide a seamless experience for prospective customers.",
 url: "https://yuvancabs.com",
-image: "/projects/yuvan-cabs.png",
+image: "/yuvan.png",
 accent: "from-amber-500/20 to-transparent",
 },
 ];

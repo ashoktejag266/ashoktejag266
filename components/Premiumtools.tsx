@@ -28,7 +28,7 @@ const tools = [
   {
     name: "React",
     label: "Frontend",
-    icon: "/tools/react.png",
+    icon: "/tools/react.svg",
     bg: "bg-[#0a0a0a]",
   },
   {
@@ -41,19 +41,19 @@ const tools = [
   {
     name: "JavaScript",
     label: "Frontend",
-    icon: "/tools/javascript.png",
+    icon: "/tools/js.png",
     bg: "bg-[#0a0a0a]",
   },
   {
     name: "TypeScript",
     label: "Frontend",
-    icon: "/tools/typescript.png",
+    icon: "/tools/ts.svg",
     bg: "bg-[#0a0a0a]",
   },
   {
     name: "Tailwind CSS",
     label: "Frontend",
-    icon: "/tools/tailwind.png",
+    icon: "/tools/tailwind-css.svg",
     bg: "bg-[#0a0a0a]",
   },
 
@@ -61,25 +61,25 @@ const tools = [
   {
     name: "FastAPI",
     label: "Backend",
-    icon: "/tools/fastapi.png",
+    icon: "/tools/FastAPI.svg",
     bg: "bg-[#0a0a0a]",
   },
   {
     name: "Python",
     label: "Backend",
-    icon: "/tools/python.png",
+    icon: "/tools/python.svg",
     bg: "bg-[#0a0a0a]",
   },
   {
     name: "Supabase",
     label: "Database",
-    icon: "/tools/supabase.png",
+    icon: "/tools/supabase.svg",
     bg: "bg-[#0a0a0a]",
   },
   {
     name: "PostgreSQL",
     label: "Database",
-    icon: "/tools/postgresql.png",
+    icon: "/tools/postgresql.svg",
     bg: "bg-[#0a0a0a]",
   },
 
@@ -87,13 +87,14 @@ const tools = [
   {
     name: "Railway",
     label: "Backend Hosting",
-    icon: "/tools/railway.png",
-    bg: "bg-[#0a0a0a]",
+    icon: "/tools/railway.svg",
+ bg: "bg-white",
+    iconInvert: true,
   },
   {
     name: "Render",
     label: "Cloud Hosting",
-    icon: "/tools/render.png",
+    icon: "/tools/Render.jpg",
     bg: "bg-[#0a0a0a]",
   },
   {
@@ -108,13 +109,13 @@ const tools = [
   {
     name: "Razorpay",
     label: "Payments",
-    icon: "/tools/razorpay.png",
+    icon: "/tools/razor.jpg",
     bg: "bg-[#0a0a0a]",
   },
   {
     name: "Shiprocket",
     label: "Shipping",
-    icon: "/tools/shiprocket.png",
+    icon: "/tools/shiprocket.avif",
     bg: "bg-[#0a0a0a]",
   },
   {
@@ -140,7 +141,7 @@ const tools = [
   {
     name: "Framer Motion",
     label: "Design",
-    icon: "/tools/framer.png",
+    icon: "/tools/framer.avif",
     bg: "bg-[#0a0a0a]",
   },
 ];
