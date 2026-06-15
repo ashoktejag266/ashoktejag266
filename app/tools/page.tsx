@@ -43,13 +43,11 @@ export const metadata: Metadata = {
 export default function HomePage() {
   return (
     <>
-      <HeroSection />
-      <RecentProjects/>
-      <Experience/>
+
       <PremiumTools/>
 
 
-      
+  
     </>
   );
 }
