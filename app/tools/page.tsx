@@ -22,13 +22,13 @@ export const metadata: Metadata = {
     "Software Engineer",
   ],
   alternates: {
-    canonical: "https://yourdomain.com", // 👈 update
+    canonical: "https://ashoktejag266.vercel.app/", // 👈 update
   },
   openGraph: {
     title: "Ashok Teja G — Full Stack Developer",
     description:
       "Building end-to-end products — from database schema and FastAPI backends to React / Next.js frontends and cloud deployment.",
-    url: "https://yourdomain.com",
+    url: "https://ashoktejag266.vercel.app/",
     type: "website",
   },
   twitter: {
